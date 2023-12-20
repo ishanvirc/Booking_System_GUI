@@ -1,0 +1,37 @@
+{
+    "barberTimeSlots": [
+        {
+            "hour": 9,
+            "id": 0,
+            "day": "Monday"
+        },
+        {
+            "hour": 11,
+            "id": 6,
+            "day": "Wednesday"
+        },
+        {
+            "hour": 12,
+            "id": 11,
+            "day": "Friday"
+        }
+    ],
+    "barberServices": [
+        {
+            "serviceCost": 60,
+            "time": 40,
+            "serviceName": "HairCut"
+        },
+        {
+            "serviceCost": 25,
+            "time": 15,
+            "serviceName": "Beard"
+        },
+        {
+            "serviceCost": 10,
+            "time": 5,
+            "serviceName": "EyeBrows"
+        }
+    ],
+    "barberName": "ishan"
+}

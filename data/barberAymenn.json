@@ -1,0 +1,37 @@
+{
+    "barberTimeSlots": [
+        {
+            "hour": 9,
+            "id": 0,
+            "day": "Monday"
+        },
+        {
+            "hour": 10,
+            "id": 1,
+            "day": "Wednesday"
+        },
+        {
+            "hour": 11,
+            "id": 2,
+            "day": "Friday"
+        }
+    ],
+    "barberServices": [
+        {
+            "serviceCost": 50,
+            "time": 45,
+            "serviceName": "HairCut"
+        },
+        {
+            "serviceCost": 20,
+            "time": 10,
+            "serviceName": "Beard"
+        },
+        {
+            "serviceCost": 5,
+            "time": 5,
+            "serviceName": "EyeBrows"
+        }
+    ],
+    "barberName": "Killua"
+}

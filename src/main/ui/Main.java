@@ -1,0 +1,8 @@
+package ui;
+
+// Main Method
+public class Main {
+    public static void main(String[] args) {
+        new LoginGUI();
+    }
+}

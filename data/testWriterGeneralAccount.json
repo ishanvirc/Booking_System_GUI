@@ -1,0 +1,12 @@
+{
+    "appointments": [{
+        "cost": 10,
+        "myBarber": "Jo",
+        "myTimeSlotID": 45,
+        "myDay": "Monday",
+        "length": 5,
+        "myHour": 5
+    }],
+    "balance": 100,
+    "name": "Jasmine"
+}

@@ -1,0 +1,52 @@
+{
+    "appointments": [
+        {
+            "cost": 55,
+            "myTimeSlotID": 0,
+            "myBarber": "Giyu",
+            "myServices": [
+                {
+                    "serviceCost": 40,
+                    "time": 35,
+                    "serviceName": "HairCut"
+                },
+                {
+                    "serviceCost": 15,
+                    "time": 15,
+                    "serviceName": "Beard"
+                }
+            ],
+            "myDay": "Monday",
+            "length": 50,
+            "myHour": 9
+        },
+        {
+            "cost": 20,
+            "myTimeSlotID": 2,
+            "myBarber": "Killua",
+            "myServices": [{
+                "serviceCost": 20,
+                "time": 10,
+                "serviceName": "Beard"
+            }],
+            "myDay": "Friday",
+            "length": 10,
+            "myHour": 11
+        },
+        {
+            "cost": 20,
+            "myTimeSlotID": 0,
+            "myBarber": "Killua",
+            "myServices": [{
+                "serviceCost": 20,
+                "time": 10,
+                "serviceName": "Beard"
+            }],
+            "myDay": "Monday",
+            "length": 10,
+            "myHour": 9
+        }
+    ],
+    "balance": 55,
+    "name": "Ishan"
+}
